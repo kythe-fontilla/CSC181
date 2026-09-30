@@ -93,9 +93,9 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
-<!-- Example Markdown image syntax:
-![Brief description of screenshot](path/to/image.png)
--->
+The attached pictures is a reference of how the app should function. The user can pick a stall/small business they want from scrolling the feed, then after choosing, they could have the location and other information such as location and other menu of that business.
+
+![App Reference](assets/app_reference.png)
 
 **External sources used, if any:**  
 None
@@ -108,16 +108,24 @@ Select **one** option below and complete the applicable details.
 
 - [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
-- [✔️] **AI tools used.** I used the following AI tool(s): Claude.
+- [✔️] **AI tools used.** I used the following AI tool(s): Claude
 
   **Purpose of use:**  
-  I used Claude mainly for improving grammar and in generating possible problems that the app can help bridge.
+  I used Claude mainly for improving grammar and in generating possible problems that the app can help bridge and incorporated suggestions given by the AI assistant.
 
   **How I reviewed the output:**  
   [Explain how you checked, revised, verified, or adapted the AI-generated output.]
+  First, I check whether the answers are factual and edit out the sentences that don't resonate with my current idea and give instructions on what could be better based on the given response.
 
   **Prompt(s) or summary of interaction:**  
-  [Paste the main prompt(s) used, provide a link to the shared conversation if available, or summarize the interaction clearly enough for the instructor to understand the assistance received.]
+  **How the process worked:** For each question, I wrote my own answer first, including my main ideas: a mobile app and website that lets small pop-up vendors promote their products during Diyandi Festival and lets customers (residents, students, and visitors) find stalls and order through delivery.
+
+  **What Claude helped with:**
+  - **Polishing my writing.** Claude fixed typos and grammar, tightened my sentences, and organized my rough answers into clearer, more complete responses.
+  - **Expanding on the problems and inconveniences.** Claude helped me articulate the effects of the problem I identified: customers miss out on local, festival-only food, small vendors lose potential sales, and new vendors with limited budgets may not be able to afford advertising.
+  - **Suggesting supporting details.** Claude suggested some specific features (such as a map of stalls, vendor menus and operating hours, and free vendor profiles) and some ways to measure success (such as comparing sales with previous festivals).
+
+  **What was my own work:** The core idea, the user groups, the problem based on my personal experience, the proposed digital solution, the two user actions, the two qualities (free and accessible), and the two ways to check if the solution helped (asking customers how they found the store and asking vendors if sales went up).
 
 > I understand that I remain responsible for the accuracy, originality, and quality of this submission. I confirm that I reviewed and revised any AI-generated content and can explain all ideas submitted under my name.
 
